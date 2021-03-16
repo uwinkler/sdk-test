@@ -1,0 +1,11 @@
+{
+  "name": "sdk-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/uwinkler/sdk-test.git",
+  "author": "uli.winkler <uli.winkler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
+}
