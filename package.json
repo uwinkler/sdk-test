@@ -6,7 +6,7 @@
   "author": "uli.winkler <uli.winkler@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/react-router-dom": "^5.1.7",
-    "react-router-dom": "^5.2.0"
+    "@types/react-router-dom": "5.1.5",
+    "react-router-dom": "5.2.0"
   }
 }
